@@ -17,7 +17,6 @@ requests
 
 
 vnquant.DataLoader
-DataLoader
 
 sklearn.metrics
 
