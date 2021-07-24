@@ -16,7 +16,7 @@ plotly
 requests
 
 
-vnquant
+
 
 sklearn
 
