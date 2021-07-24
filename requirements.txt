@@ -11,7 +11,7 @@ datetime
 cufflinks
 
 plotly
-graph_objs
+
 
 requests
 
@@ -20,7 +20,6 @@ vnquant.DataLoader
 DataLoader
 
 sklearn.metrics
-mean_squared_error
 
 math
 seaborn
