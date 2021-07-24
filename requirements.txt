@@ -28,17 +28,13 @@ statsmodels.api
 itertools
 
 statsmodels.tsa.arima_model
-ARIMA, ARMA
+
 statsmodels.tools.eval_measures
-rmse
+
 
 
 pypfopt
-risk_models
-pypfopt
-expected_returns
+
 pypfopt.efficient_frontier
-EfficientFrontier
 
 PIL
-Image
