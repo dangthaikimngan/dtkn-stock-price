@@ -16,23 +16,23 @@ plotly
 requests
 
 
-vnquant.DataLoader
+vnquant
 
-sklearn.metrics
+sklearn
 
 math
 seaborn
-statsmodels.api
+statsmodels
 itertools
 
-statsmodels.tsa.arima_model
+statsmodels
 
-statsmodels.tools.eval_measures
+statsmodels
 
 
 
 pypfopt
 
-pypfopt.efficient_frontier
+
 
 PIL
